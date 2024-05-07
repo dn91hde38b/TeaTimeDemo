@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{987E0D2C-C9D9-48E5-B225-F49F8DAB3974}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\data\\desktop\\teatimedemo\\teatimedemo\\teatimedemo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{987E0D2C-C9D9-48E5-B225-F49F8DAB3974}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{987E0D2C-C9D9-48E5-B225-F49F8DAB3974}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\data\\desktop\\teatimedemo\\teatimedemo\\teatimedemo\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{987E0D2C-C9D9-48E5-B225-F49F8DAB3974}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{987E0D2C-C9D9-48E5-B225-F49F8DAB3974}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\data\\desktop\\teatimedemo\\teatimedemo\\teatimedemo\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{987E0D2C-C9D9-48E5-B225-F49F8DAB3974}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{987E0D2C-C9D9-48E5-B225-F49F8DAB3974}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\data\\desktop\\teatimedemo\\teatimedemo\\teatimedemo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{987E0D2C-C9D9-48E5-B225-F49F8DAB3974}|TeaTimeDemo\\TeaTimeDemo.csproj|solutionrelative:teatimedemo\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{987E0D2C-C9D9-48E5-B225-F49F8DAB3974}|TeaTimeDemo\\TeaTimeDemo.csproj|d:\\data\\desktop\\teatimedemo\\teatimedemo\\teatimedemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Category\\Delete.cshtml",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Category\\Edit.cshtml",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Category\\Create.cshtml",
@@ -95,19 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\Category\\Index.cshtml",
               "ToolTip": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "TeaTimeDemo\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAABYAAAAAAAAAAAAIwCUAAACFAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T02:23:37.917Z"
+              "WhenOpened": "2024-05-06T02:23:37.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Controllers\\CategoryController.cs",
@@ -115,8 +116,7 @@
               "RelativeToolTip": "TeaTimeDemo\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAYwDQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T02:22:44.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T02:22:44.96Z"
             },
             {
               "$type": "Document",
