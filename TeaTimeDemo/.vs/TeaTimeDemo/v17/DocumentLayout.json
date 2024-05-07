@@ -80,22 +80,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Controllers\\HomeController.cs",
-              "ToolTip": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TeaTimeDemo\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:28:13.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T01:28:13.228Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TeaTimeDemo\\Views\\_ViewImports.cshtml",
-              "ToolTip": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "TeaTimeDemo\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -105,41 +104,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TeaTimeDemo.Models",
+              "Title": "TeaTimeDemo.Models.csproj",
               "DocumentMoniker": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
               "RelativeDocumentMoniker": "TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
               "ToolTip": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
               "RelativeToolTip": "TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-07T01:21:44.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T01:21:44.325Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "TeaTimeDemo.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:12:35.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T01:12:35.832Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "20240506022033_SeedCategoryTable.cs",
-              "DocumentMoniker": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\20240506022033_SeedCategoryTable.cs",
+              "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\20240506022033_SeedCategoryTable.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo.DataAccess\\Migrations\\20240506022033_SeedCategoryTable.cs",
-              "ToolTip": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\20240506022033_SeedCategoryTable.cs",
+              "ToolTip": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\20240506022033_SeedCategoryTable.cs",
               "RelativeToolTip": "TeaTimeDemo.DataAccess\\Migrations\\20240506022033_SeedCategoryTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:12:29.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T01:12:29.179Z"
             },
             {
               "$type": "Document",
@@ -151,21 +147,19 @@
               "RelativeToolTip": "TeaTimeDemo\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAA7wAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T02:22:44.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T02:22:44.96Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "20240506020454_AddCategoryTableToDb.cs",
-              "DocumentMoniker": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\20240506020454_AddCategoryTableToDb.cs",
+              "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\20240506020454_AddCategoryTableToDb.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo.DataAccess\\Migrations\\20240506020454_AddCategoryTableToDb.cs",
-              "ToolTip": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\20240506020454_AddCategoryTableToDb.cs",
+              "ToolTip": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Migrations\\20240506020454_AddCategoryTableToDb.cs",
               "RelativeToolTip": "TeaTimeDemo.DataAccess\\Migrations\\20240506020454_AddCategoryTableToDb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:12:13.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T01:12:13.441Z"
             },
             {
               "$type": "Document",
@@ -177,34 +171,31 @@
               "RelativeToolTip": "TeaTimeDemo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T01:50:44.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T01:50:44.931Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "TeaTimeDemo.DataAccess\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:09:01.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T01:09:01.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "SD.cs",
-              "DocumentMoniker": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.Utility\\SD.cs",
+              "DocumentMoniker": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.Utility\\SD.cs",
               "RelativeDocumentMoniker": "TeaTimeDemo.Utility\\SD.cs",
-              "ToolTip": "d:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.Utility\\SD.cs",
+              "ToolTip": "D:\\data\\Desktop\\TeaTimeDemo\\TeaTimeDemo\\TeaTimeDemo.Utility\\SD.cs",
               "RelativeToolTip": "TeaTimeDemo.Utility\\SD.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T01:07:58.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T01:07:58.63Z"
             },
             {
               "$type": "Document",
@@ -216,8 +207,7 @@
               "RelativeToolTip": "TeaTimeDemo\\Views\\Category\\Delete.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAIwA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T05:55:34.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T05:55:34.544Z"
             },
             {
               "$type": "Document",
@@ -229,8 +219,7 @@
               "RelativeToolTip": "TeaTimeDemo\\Views\\Category\\Edit.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAIwBwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T03:45:45.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T03:45:45.954Z"
             },
             {
               "$type": "Document",
@@ -242,8 +231,7 @@
               "RelativeToolTip": "TeaTimeDemo\\Views\\Category\\Create.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAIBJwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T03:11:16.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T03:11:16.561Z"
             },
             {
               "$type": "Document",
@@ -255,8 +243,7 @@
               "RelativeToolTip": "TeaTimeDemo\\Views\\Category\\Index.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAIwBoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T02:23:37.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T02:23:37.917Z"
             },
             {
               "$type": "Document",
@@ -268,8 +255,7 @@
               "RelativeToolTip": "TeaTimeDemo\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAIBJwBcAAAB1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T02:24:14.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T02:24:14.18Z"
             },
             {
               "$type": "Document",
@@ -281,8 +267,7 @@
               "RelativeToolTip": "TeaTimeDemo\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-06T01:40:53.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T01:40:53.747Z"
             }
           ]
         }
