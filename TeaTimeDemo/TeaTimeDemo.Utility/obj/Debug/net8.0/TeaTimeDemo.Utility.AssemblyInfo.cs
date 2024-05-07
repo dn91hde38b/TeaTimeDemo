@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TeaTimeDemo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TeaTimeDemo.Utility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26aec5e6d28bf4e79c6a684f551d7eb823e9aeb8")]
-[assembly: System.Reflection.AssemblyProductAttribute("TeaTimeDemo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TeaTimeDemo")]
+[assembly: System.Reflection.AssemblyProductAttribute("TeaTimeDemo.Utility")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TeaTimeDemo.Utility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 類別產生。
